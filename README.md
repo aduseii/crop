@@ -17,4 +17,20 @@ Open http://localhost:8080.
 
 React 19, TanStack Start, Tailwind v4, Zustand.
 
-Built with Grok. Full source available in this repository.
+## Source status
+
+Core UI components and libs have been uploaded so Claude can work on the real project:
+- `src/components/studio.tsx`
+- `src/components/source-panel.tsx`
+- `src/components/stage.tsx`
+- `src/components/tweet-card.tsx`
+- `src/components/export-bar.tsx`
+- `src/components/crop-image.tsx`
+- `src/components/icons.tsx`
+- `src/components/ui/*`
+- `src/lib/formats.ts`
+- `src/lib/export-png.ts`
+
+More files (frame-panel, studio-store, tweet parsing, routes, etc.) are being added in batches.
+
+Built with Grok.
